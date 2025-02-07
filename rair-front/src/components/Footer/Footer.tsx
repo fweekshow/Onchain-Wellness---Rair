@@ -71,15 +71,6 @@ const Footer: FC<IFooter> = () => {
           <ul
             className="footer-nav-item"
           >
-            <li>
-              <MailIcon width={20} height={20} />Development@EvergreenFund.life
-            </li>
-            <li>
-              <LocationIcon width={20} height={20} />14445 Mulholland Dr., Los Angeles, CA 90019
-            </li>
-            <li>
-              <PhoneIcon />818-530-6378
-            </li>
           </ul>
         </NavFooter>
         </div>
